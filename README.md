@@ -7,6 +7,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - Sticky Footer
 - Clone it and start working, saves a lot of time.
 
+## How it looks?
+![ShadCN UI Template](https://github.com/adminazhar/shadcn-ui-template/blob/master/DemoScreenshot.png)
+
 ## Getting Started
 
 First, run the development server:
